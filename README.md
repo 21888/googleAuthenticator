@@ -1,5 +1,6 @@
 # google令牌动态验证码 
 
+[![image](https://user-images.githubusercontent.com/80592877/178144553-04e4e294-b700-4aea-a70c-93919dea7610.png)](https://github.com/664485186/googleAuthenticator)
 
 #Google Authenticator Golang package
 This Golang package can be used to interact with the Google Authenticator mobile app for 2-factor-authentication.
